@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IBM Calculator</string>
+    <string name="weight">Enter Weight (kg):</string>
+    <string name="height">Enter Height (m):</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="ibm">IBM</string>
+    <string name="bmi">BMI:</string>
+</resources>
